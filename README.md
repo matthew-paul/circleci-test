@@ -1,2 +1,2 @@
-# circleci_test
+# circleci-test
 Testing with CircleCI
